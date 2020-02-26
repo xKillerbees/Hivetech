@@ -1,0 +1,16 @@
+[
+{
+  "modid": "hivetech",
+  "name": "Hivetech",
+  "description": "Pretending to mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["xKillerbees"],
+  "credits": "I'd like to thank no one because I hate myself",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
